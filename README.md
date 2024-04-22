@@ -59,10 +59,3 @@ Please note that the DebayanGPT Research Papers Chatbot is a work in progress an
 
 Contributions to the chatbot's development are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to fit your specific project requirements and preferences! Let me know if you need further assistance.
